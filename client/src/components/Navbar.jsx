@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <header>
-      Header
-      <div>
+      JunjasLens
+      <div className="navbar">
         <Link to="/">Home</Link>
         <Link to="portfolio">Portfolio</Link>
         <Link to="about">About</Link>
